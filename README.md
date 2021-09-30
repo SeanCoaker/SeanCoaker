@@ -8,4 +8,4 @@ I'm a Swansea University student studying for an MEng in Software Engineering. I
 
 My obsessive attention to detail, competitiveness to be the best that I can be, and my desire to work on technologies that will better the lives of others and help to advance the human race, meant that Software Engineering was the perfect fit for me.
 
-## Technologies
+## 🖥️ Technologies
