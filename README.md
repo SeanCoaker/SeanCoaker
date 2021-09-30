@@ -18,4 +18,5 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java-IDEA&logoColor=white&color=cf3f2d)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=plastic&logo=Kotlin-IDEA&logoColor=white&color=cf3f2d)
 ![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=C++-IDEA&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=Bash-IDEA&logoColor=white&color=cf3f2d)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=plastic&logo=Git-IDEA&logoColor=white&color=cf3f2d)
