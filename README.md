@@ -10,5 +10,12 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 
 ## 🖥️ Technologies
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=cf3f2d)
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=Windows&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=plastic&logo=IntelliJ-IDEA&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Editor-CLion-informational?style=plastic&logo=CLion-IDEA&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=plastic&logo=Sublime-IDEA&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java-IDEA&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=plastic&logo=Kotlin-IDEA&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=C++-IDEA&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Tool-Git-informational?style=plastic&logo=C++-IDEA&logoColor=white&color=cf3f2d)
