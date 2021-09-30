@@ -10,4 +10,5 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 
 ## 🖥️ Technologies
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=cf3f2d)
