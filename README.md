@@ -1,1 +1,4 @@
-![Header](assets/readme_header.png "Header")
+<p align="center">
+  <img src="assets/image.png" />
+</p>
+
