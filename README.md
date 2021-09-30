@@ -1,1 +1,1 @@
-[![Header](assets/readme_header.png "Header")]
+![Header](assets/readme_header.png "Header")
