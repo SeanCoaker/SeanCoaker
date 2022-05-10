@@ -16,7 +16,7 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=plastic&logo=CLion&logoColor=white&color=cf3f2d)
 ![](https://img.shields.io/badge/Editor-Sublime-informational?style=plastic&logo=Sublime-Text&logoColor=white&color=cf3f2d)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=plastic&logo=Atom&logoColor=white&color=cf3f2d)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=vscode&logoColor=white&color=cf3f2d)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=VSCode&logoColor=white&color=cf3f2d)
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java&logoColor=white&color=cf3f2d)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=plastic&logo=Kotlin&logoColor=white&color=cf3f2d)
 ![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=C&logoColor=white&color=cf3f2d)
@@ -27,7 +27,6 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 
 ## ⚙️ Current Work
 
-- Masters Project: Experimentation with firefly synchronisation for LoRa module communication security with development of an Arduino batch uploading and testing software platform.
-- European Space Agency OPS-SAT (https://www.esa.int/Enabling_Support/Operations/OPS-SAT): Working with a team to create fault detection circuits to identify how often FPGAs experience faults in orbit. We will then develop automatic protection tools to correct faults experienced by the FPGAs. 
-- Learning Golang.
-- Learning Python.
+- Completing Master's Exams
+- Learning Rust
+- Looking for Work
