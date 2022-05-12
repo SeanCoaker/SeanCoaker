@@ -28,5 +28,5 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 ## ⚙️ Current Work
 
 - Completing Master's Exams
-- Learning Rust
+- Learning Golang
 - Looking for Work
