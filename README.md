@@ -2,7 +2,7 @@
   <img src="https://github.com/sjc7375/sjc7375/blob/main/assets/readme_header.png" width=1280 height=280 />
 </p>
 
-# Hello, World! I'm Sean Coaker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, World! I'm Sean Coaker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 
 I'm a Swansea University student studying for an MEng in Computing. I love all things programming and feel very grateful that one of my greatest hobbies will one day become my career. As well as programming, my hobbies include competitive gaming, sport (football, cricket, Formula 1, golf), and PC building.
 
