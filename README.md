@@ -33,4 +33,4 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 
 [![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanCoaker)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanCoaker&hide=QML,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanCoaker&hide=QML,html, tcl, cython)](https://github.com/anuraghazra/github-readme-stats)
