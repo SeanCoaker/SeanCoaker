@@ -32,3 +32,5 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 ## GitHub Stats
 
 [![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanCoaker)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanCoaker)](https://github.com/anuraghazra/github-readme-stats)
