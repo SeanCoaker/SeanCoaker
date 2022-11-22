@@ -28,3 +28,7 @@ My obsessive attention to detail, competitiveness to be the best that I can be, 
 ## ⚙️ Current Work
 
 - Studying AI and Machine Learning concepts ready for a future project.
+
+## GitHub Stats
+
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanCoaker)](https://github.com/anuraghazra/github-readme-stats)
