@@ -4,7 +4,7 @@
 
 # Hello, World! I'm Sean Coaker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 
-I'm a Junior Consultant at Capgemini with an MEng in Computing from Swansea University. I love all things programming and feel very grateful that one of my greatest hobbies is my career. As well as programming, my hobbies include competitive gaming, sport (football, cricket, Formula 1, golf), and PC building.
+I'm a Junior Consultant in Artificial Intelligence and Machine Learning at Capgemini with an MEng in Computing from Swansea University. I love all things programming and feel very grateful that one of my greatest hobbies is my career. As well as programming, my hobbies include competitive gaming, sport (football, cricket, Formula 1, golf), and PC building.
 
 My obsessive attention to detail, competitiveness to be the best that I can be, and my desire to work on technologies that will better the lives of others and help to advance the human race, meant that Software Engineering was the perfect fit for me.
 
